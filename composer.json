@@ -1,0 +1,6 @@
+{
+    "name": "wordpress",
+    "require": {
+        "vlucas/phpdotenv": "^2.0"
+    }
+}
